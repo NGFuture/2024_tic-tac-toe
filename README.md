@@ -1,6 +1,6 @@
 # Tic-Tac-Toe Game
 
-This application is a Tic-Tac-Toe game built with [Next.js](https://nextjs.org/), bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+This application is a Tic-Tac-Toe game built with [Next.js](https://nextjs.org/). It is a quick project created to answer an interview question, featuring automated moves for the second player.
 
 ## Getting Started
 
